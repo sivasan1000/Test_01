@@ -1,0 +1,9 @@
+Document 1 ver.01_A
+
+Inventar:
+Cartea 1 - a
+Cartea 2 - b
+Cartea 3 - c
+Cartea 4 - d
+Cartea 5 - e
+
