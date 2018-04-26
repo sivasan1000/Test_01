@@ -7,3 +7,6 @@ Cartea 3 - c
 Cartea 4 - d
 Cartea 5 - e
 
+Cartea 10 - a10
+Cartea 11 - a11
+Cartea 12 - a12
