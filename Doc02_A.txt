@@ -5,3 +5,6 @@ Cartea 1 este scrisa de a si este foarte interesanta.
 
 Descriere Cartea 2
 Cartea 2 este scrisa de b si este bine structurata.
+
+Descriere Cartea 3
+Cartea 3 este scrisa de c si este ancorata in realitate.
