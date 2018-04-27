@@ -1,9 +1,7 @@
 Document 1 ver.01_B
 
 Inventar:
-Cartea 4 - d
-Cartea 5 - e
 Cartea 6 - f
 Cartea 7 - g
 Cartea 8 - h
-
+Cartea 9 - i
